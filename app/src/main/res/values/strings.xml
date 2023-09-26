@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Я люблю и принимаю мир и всех людей.</string>
+    <string name="affirmation2">Я действительно люблю себя.</string>
+    <string name="affirmation3">Я всегда способна найти любовь в своем сердце.</string>
+    <string name="affirmation4">Я полностью контролирую свои эмоции.</string>
+    <string name="affirmation5">Я способна сделать все, что мне нужно и я осуществлю это!</string>
+    <string name="affirmation6">Я усердно работаю и результат не заставит себя ждать.</string>
+    <string name="affirmation7">Я забочусь о своем теле и состоянии здоровья.</string>
+    <string name="affirmation8">Несоответствие стандартам красоты не делает меня хуже. Это делает меня ещё необычнее и привлекательнее.</string>
+    <string name="affirmation9">Мысли настоящего создают мое будущее.</string>
+    <string name="affirmation10">Я отказываюсь быть беспомощной.</string>
+    <string name="affirmation11">Я прощаю себя за то, что не была совершенна.</string>
+    <string name="affirmation12">Я верю в СЕБЯ. Я способный человек. Я могу справиться со всем, что мне встретится. Я верю в свои возможности.</string>
+    <string name="affirmation13">Я ухожу от дум о бедности к мыслям о процветании, и мои финансы отражают это изменение.</string>
+    <string name="affirmation14">Я заслуживаю лучшего, и я теперь принимаю лучшее.</string>
+    <string name="affirmation15">Моя жизнь в моей власти, я живу так, как хочу жить. Я умею отпускать.</string>
+</resources>
