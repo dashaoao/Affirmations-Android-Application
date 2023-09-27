@@ -5,14 +5,21 @@ import com.example.affirmations.adapter.ItemAdapter
 import com.example.affirmations.model.Affirmation
 import junit.framework.TestCase.assertNotNull
 import org.junit.Assert.assertEquals
+import org.junit.Before
 import org.junit.Test
 import org.mockito.Mock
+import org.mockito.Mockito
 import org.mockito.Mockito.*
 
-class ExampleUnitTest {
+class AdapterUnitTest {
 
     @Mock
-    private val context = mock(Context::class.java)
+    private lateinit var context: Context
+
+    @Before
+    fun setup() {
+        context = Mockito.mock(Context::class.java)
+    }
 
     // 1. Тестирование инициализации ItemAdapter с пустым списком данных:
 

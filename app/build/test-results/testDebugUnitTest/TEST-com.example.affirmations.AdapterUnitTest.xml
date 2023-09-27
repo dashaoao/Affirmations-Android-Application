@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.affirmations.AdapterUnitTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-09-27T09:51:18" hostname="DESKTOP-5LICUD6" time="0.714">
+  <properties/>
+  <testcase name="testEmptyDataset" classname="com.example.affirmations.AdapterUnitTest" time="0.7"/>
+  <testcase name="testGetItemCount" classname="com.example.affirmations.AdapterUnitTest" time="0.011"/>
+  <testcase name="testGetItem" classname="com.example.affirmations.AdapterUnitTest" time="0.0"/>
+  <testcase name="testGetItemId" classname="com.example.affirmations.AdapterUnitTest" time="0.0"/>
+  <testcase name="testGetItemFromEmptyDataset" classname="com.example.affirmations.AdapterUnitTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

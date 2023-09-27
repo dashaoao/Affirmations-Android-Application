@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.affirmations.app-mergeDebugResources-27:/values-v18/values-v18.xml",
+            "outputFile": "com.example.affirmations.app-mergeDebugResources-28:/values-v18/values-v18.xml",
             "map": [
                 {
                     "source": "C:\\Users\\79299\\.gradle\\caches\\transforms-3\\58dd3f4812eb78824b955d86d3508d52\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
@@ -11,6 +11,25 @@
                         "startOffsets": "55",
                         "endColumns": "48",
                         "endOffsets": "99"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\79299\\.gradle\\caches\\transforms-3\\3be9fbd2504f0d58fdb6d1538a172410\\transformed\\core-1.5.0\\res\\values-v18\\values.xml",
+                    "from": {
+                        "startLines": "4,12",
+                        "startColumns": "0,0",
+                        "startOffsets": "180,596",
+                        "endLines": "11,19",
+                        "endColumns": "8,8",
+                        "endOffsets": "595,1009"
+                    },
+                    "to": {
+                        "startLines": "3,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "104,524",
+                        "endLines": "10,18",
+                        "endColumns": "8,8",
+                        "endOffsets": "519,937"
                     }
                 }
             ]

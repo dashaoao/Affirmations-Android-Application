@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.affirmations.app-mergeDebugResources-27:/values-zu/values-zu.xml",
+            "outputFile": "com.example.affirmations.app-mergeDebugResources-28:/values-zu/values-zu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\79299\\.gradle\\caches\\transforms-3\\58dd3f4812eb78824b955d86d3508d52\\transformed\\appcompat-1.6.1\\res\\values-zu\\values-zu.xml",
