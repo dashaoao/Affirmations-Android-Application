@@ -6,17 +6,19 @@ import com.example.affirmations.model.Affirmation
 import junit.framework.TestCase.assertNotNull
 import org.junit.Assert.assertEquals
 import org.junit.Test
+import org.mockito.Mock
 import org.mockito.Mockito.*
 
 class ExampleUnitTest {
 
+    @Mock
     private val context = mock(Context::class.java)
 
     // 1. Тестирование инициализации ItemAdapter с пустым списком данных:
 
     @Test
     fun testEmptyDataset() {
-        val adapter = ItemAdapter(context, emptyList())
+        val adapter = ItemAdapter(context, 1, emptyList())
         assertNotNull(adapter)
     }
 
@@ -29,7 +31,7 @@ class ExampleUnitTest {
             Affirmation(R.string.affirmation2, R.drawable.image2),
             Affirmation(R.string.affirmation3, R.drawable.image3)
         )
-        val adapter = ItemAdapter(context, dataset)
+        val adapter = ItemAdapter(context, 1, dataset)
         assertEquals(dataset.size, adapter.itemCount)
     }
 
@@ -37,7 +39,7 @@ class ExampleUnitTest {
 
     @Test(expected = IndexOutOfBoundsException::class)
     fun testGetItemFromEmptyDataset() {
-        val adapter = ItemAdapter(context, emptyList())
+        val adapter = ItemAdapter(context, 1, emptyList())
         adapter.getItem(0)
     }
 
@@ -50,7 +52,7 @@ class ExampleUnitTest {
             Affirmation(R.string.affirmation2, R.drawable.image2),
             Affirmation(R.string.affirmation3, R.drawable.image3)
         )
-        val adapter = ItemAdapter(context, dataset)
+        val adapter = ItemAdapter(context,1, dataset)
         for (i in dataset.indices){
             assertEquals(dataset[i], adapter.getItem(i))
         }
@@ -65,10 +67,22 @@ class ExampleUnitTest {
             Affirmation(R.string.affirmation2, R.drawable.image2),
             Affirmation(R.string.affirmation3, R.drawable.image3)
         )
-        val adapter = ItemAdapter(context, dataset)
+        val adapter = ItemAdapter(context, 1, dataset)
 
         assertEquals(R.string.affirmation1.toLong(), adapter.getItemId(0))
         assertEquals(R.string.affirmation2.toLong(), adapter.getItemId(1))
         assertEquals(R.string.affirmation3.toLong(), adapter.getItemId(2))
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+

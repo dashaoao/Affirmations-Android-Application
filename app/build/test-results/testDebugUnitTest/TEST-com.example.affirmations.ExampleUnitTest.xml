@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.affirmations.ExampleUnitTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-09-27T06:52:34" hostname="DESKTOP-5LICUD6" time="1.049">
+<testsuite name="com.example.affirmations.ExampleUnitTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-09-27T09:08:44" hostname="DESKTOP-5LICUD6" time="0.824">
   <properties/>
-  <testcase name="testEmptyDataset" classname="com.example.affirmations.ExampleUnitTest" time="1.028"/>
-  <testcase name="testGetItemCount" classname="com.example.affirmations.ExampleUnitTest" time="0.018"/>
-  <testcase name="testGetItem" classname="com.example.affirmations.ExampleUnitTest" time="0.0"/>
-  <testcase name="testGetItemId" classname="com.example.affirmations.ExampleUnitTest" time="0.0"/>
+  <testcase name="testEmptyDataset" classname="com.example.affirmations.ExampleUnitTest" time="0.809"/>
+  <testcase name="testGetItemCount" classname="com.example.affirmations.ExampleUnitTest" time="0.012"/>
+  <testcase name="testGetItem" classname="com.example.affirmations.ExampleUnitTest" time="0.001"/>
+  <testcase name="testGetItemId" classname="com.example.affirmations.ExampleUnitTest" time="0.001"/>
   <testcase name="testGetItemFromEmptyDataset" classname="com.example.affirmations.ExampleUnitTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

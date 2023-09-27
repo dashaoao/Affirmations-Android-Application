@@ -24,6 +24,7 @@ color teal_200
 color teal_700
 color white
 color white_300
+dimen button_width
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable image1
@@ -41,10 +42,15 @@ drawable image6
 drawable image7
 drawable image8
 drawable image9
+id horizontal_btn
+id horizontal_recycler_view
 id item_image
 id item_title
-id recycler_view
+id vertical_btn
+id vertical_recycler_view
+layout activity_horizontal_list
 layout activity_main
+layout activity_vertical_list
 layout list_item
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -64,6 +70,8 @@ string affirmation7
 string affirmation8
 string affirmation9
 string app_name
+string horizontal
+string vertical
 style Theme.Affirmations
 style Widget.Affirmations.TextView
 xml backup_rules

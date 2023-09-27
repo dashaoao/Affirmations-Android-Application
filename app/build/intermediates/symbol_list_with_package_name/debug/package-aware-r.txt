@@ -2149,6 +2149,7 @@ dimen abc_text_size_subtitle_material_toolbar
 dimen abc_text_size_title_material
 dimen abc_text_size_title_material_toolbar
 dimen appcompat_dialog_background_inset
+dimen button_width
 dimen cardview_compat_inset_shadow
 dimen cardview_default_elevation
 dimen cardview_default_radius
@@ -3250,7 +3251,9 @@ id hideable
 id home
 id homeAsUp
 id honorRequest
+id horizontal_btn
 id horizontal_only
+id horizontal_recycler_view
 id icon
 id icon_group
 id ifRoom
@@ -3383,7 +3386,6 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
-id recycler_view
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3517,7 +3519,9 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id vertical_btn
 id vertical_only
+id vertical_recycler_view
 id view_offset_helper
 id view_transition
 id view_tree_lifecycle_owner
@@ -3648,7 +3652,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_horizontal_list
 layout activity_main
+layout activity_vertical_list
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3791,6 +3797,7 @@ string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
+string horizontal
 string icon_content_description
 string item_view_role_description
 string m3_ref_typeface_brand_medium
@@ -3904,6 +3911,7 @@ string searchview_navigation_content_description
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string status_bar_notification_info_overflow
+string vertical
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

@@ -22,73 +22,82 @@
 15-->[androidx.core:core:1.9.0] C:\Users\79299\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:5:5-28:19
+17-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:5:5-31:19
 18        android:allowBackup="true"
 18-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.9.0] C:\Users\79299\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
-20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:7:9-65
-21        android:debuggable="true"
-22        android:extractNativeLibs="false"
-23        android:fullBackupContent="@xml/backup_rules"
-23-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:8:9-54
-24        android:icon="@mipmap/ic_launcher"
-24-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:9:9-43
-25        android:label="@string/app_name"
-25-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:10:9-41
-26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:11:9-54
-27        android:supportsRtl="true"
-27-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:12:9-35
-28        android:theme="@style/Theme.Affirmations" >
-28-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:13:9-50
-29        <activity
-29-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:15:9-27:20
-30            android:name="com.example.affirmations.MainActivity"
-30-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:16:13-41
-31            android:exported="true" >
-31-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:17:13-36
-32            <intent-filter>
-32-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:18:13-22:29
-33                <action android:name="android.intent.action.MAIN" />
-33-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:19:17-69
-33-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:19:25-66
-34
-35                <category android:name="android.intent.category.LAUNCHER" />
-35-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:21:17-77
-35-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:21:27-74
-36            </intent-filter>
-37
-38            <meta-data
-38-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:24:13-26:36
-39                android:name="android.app.lib_name"
-39-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:25:17-52
-40                android:value="" />
-40-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:26:17-33
-41        </activity>
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:7:9-43
+23        android:label="@string/app_name"
+23-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:8:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:9:9-54
+25        android:supportsRtl="true"
+25-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:10:9-35
+26        android:theme="@style/Theme.Affirmations" >
+26-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:11:9-50
+27        <activity android:name="com.example.affirmations.VerticalListActivity" >
+27-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:12:9-16:20
+27-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:12:19-55
+28            <meta-data
+28-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:13:13-15:49
+29                android:name="android.support.PARENT_ACTIVITY"
+29-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:14:17-63
+30                android:value=".MainActivity" />
+30-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:15:17-46
+31        </activity>
+32        <activity android:name="com.example.affirmations.HorizontalListActivity" >
+32-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:17:9-21:20
+32-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:17:19-57
+33            <meta-data
+33-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:13:13-15:49
+34                android:name="android.support.PARENT_ACTIVITY"
+34-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:14:17-63
+35                android:value=".MainActivity" />
+35-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:15:17-46
+36        </activity>
+37        <activity
+37-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:22:9-29:20
+38            android:name="com.example.affirmations.MainActivity"
+38-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:22:19-47
+39            android:exported="true" >
+39-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:23:13-36
+40            <intent-filter>
+40-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:24:13-28:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:25:17-69
+41-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:25:25-66
 42
-43        <provider
-43-->[androidx.emoji2:emoji2:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-44            android:name="androidx.startup.InitializationProvider"
-44-->[androidx.emoji2:emoji2:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-45            android:authorities="com.example.affirmations.androidx-startup"
-45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-46            android:exported="false" >
-46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-47            <meta-data
-47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-48                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-49                android:value="androidx.startup" />
-49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-50            <meta-data
-50-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\79299\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-51                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-51-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\79299\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-52                android:value="androidx.startup" />
-52-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\79299\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-53        </provider>
-54    </application>
-55
-56</manifest>
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:27:17-77
+43-->C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:27:27-74
+44            </intent-filter>
+45        </activity>
+46
+47        <provider
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+48            android:name="androidx.startup.InitializationProvider"
+48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+49            android:authorities="com.example.affirmations.androidx-startup"
+49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+50            android:exported="false" >
+50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+51            <meta-data
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+52                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+53                android:value="androidx.startup" />
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+54            <meta-data
+54-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\79299\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+55                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+55-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\79299\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+56                android:value="androidx.startup" />
+56-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\79299\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+57        </provider>
+58    </application>
+59
+60</manifest>

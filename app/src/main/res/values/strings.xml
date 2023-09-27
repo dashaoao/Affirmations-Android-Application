@@ -15,4 +15,6 @@
     <string name="affirmation13">Я ухожу от дум о бедности к мыслям о процветании, и мои финансы отражают это изменение.</string>
     <string name="affirmation14">Я заслуживаю лучшего, и я теперь принимаю лучшее.</string>
     <string name="affirmation15">Моя жизнь в моей власти, я живу так, как хочу жить. Я умею отпускать.</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
 </resources>

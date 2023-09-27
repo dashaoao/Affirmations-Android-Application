@@ -1,9 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\79299\.gradle\caches\transforms-3\c16f5e529333fb99c2aff8bb96a0d235\transformed\viewbinding-7.3.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\79299\.gradle\caches\transforms-3\d23a14032be95e1c0d49d848980659b4\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\79299\.gradle\caches\transforms-3\38043517c514ada7a9c17da61d45b16b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\79299\.gradle\caches\transforms-3\011380f14fe4f68e8ce075cb6eccb796\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -28,11 +29,10 @@ MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\79299\.gradle\ca
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\79299\.gradle\caches\transforms-3\164e3c0afb92a7e3b5c15f9935adbebd\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.9.0] C:\Users\79299\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\79299\.gradle\caches\transforms-3\d7a05e02feb8fce1e9d06c86faa7fd90\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\49b48222c9092f86b8f1b7ce566730b4\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\79299\.gradle\caches\transforms-3\c3ccb551a96d7464cbc7a567310b2d43\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\79299\.gradle\caches\transforms-3\d61520087bb53d23a4e3afad5636d15d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\79299\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\79299\.gradle\caches\transforms-3\ecb295b800ded09051f724a4ba193524\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\49b48222c9092f86b8f1b7ce566730b4\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\79299\.gradle\caches\transforms-3\3d0b12a6a2875ebc8055ad98f7863014\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\79299\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\79299\.gradle\caches\transforms-3\b9bab58cadaff330d559da69256a0313\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
@@ -44,27 +44,26 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\79299\.gradle\ca
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\79299\.gradle\caches\transforms-3\a91d0e13601b70491790d353890fd533\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\79299\.gradle\caches\transforms-3\eb096476208bed94cd51cc904aa804e3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\79299\.gradle\caches\transforms-3\87b6f924c6c766718f595823a69da52a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\79299\.gradle\caches\transforms-3\c3ccb551a96d7464cbc7a567310b2d43\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
+		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:3:5-39
 		INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-30:12
+		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-33:12
 		INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml
-	xmlns:tools
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-30:12
+		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:1-33:12
 		INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:5:5-28:19
+ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:5:5-31:19
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\79299\.gradle\caches\transforms-3\d23a14032be95e1c0d49d848980659b4\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\79299\.gradle\caches\transforms-3\d23a14032be95e1c0d49d848980659b4\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\79299\.gradle\caches\transforms-3\38043517c514ada7a9c17da61d45b16b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -82,49 +81,53 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\79299\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] C:\Users\79299\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:10:9-41
-	android:fullBackupContent
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:11:9-54
-	tools:targetApi
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:14:9-29
+		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
 		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:13:9-50
-	android:dataExtractionRules
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.affirmations.MainActivity
-ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:15:9-27:20
-	android:exported
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:17:13-36
+		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:11:9-50
+activity#com.example.affirmations.VerticalListActivity
+ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:12:9-16:20
 	android:name
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:16:13-41
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:18:13-22:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:19:17-69
-	android:name
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:19:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:21:17-77
-	android:name
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:21:27-74
-meta-data#android.app.lib_name
-ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:24:13-26:36
+		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:12:19-55
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:13:13-15:49
 	android:value
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:26:17-33
+		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:15:17-46
 	android:name
-		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:25:17-52
+		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:14:17-63
+activity#com.example.affirmations.HorizontalListActivity
+ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:17:9-21:20
+	android:name
+		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:17:19-57
+activity#com.example.affirmations.MainActivity
+ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:22:9-29:20
+	android:exported
+		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml:27:27-74
 uses-sdk
 INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\79299\.gradle\caches\transforms-3\c16f5e529333fb99c2aff8bb96a0d235\transformed\viewbinding-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\79299\.gradle\caches\transforms-3\c16f5e529333fb99c2aff8bb96a0d235\transformed\viewbinding-7.3.1\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\79299\.gradle\caches\transforms-3\d23a14032be95e1c0d49d848980659b4\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\79299\.gradle\caches\transforms-3\d23a14032be95e1c0d49d848980659b4\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\79299\.gradle\caches\transforms-3\38043517c514ada7a9c17da61d45b16b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
@@ -173,16 +176,14 @@ MERGED from [androidx.core:core:1.9.0] C:\Users\79299\.gradle\caches\transforms-
 MERGED from [androidx.core:core:1.9.0] C:\Users\79299\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\79299\.gradle\caches\transforms-3\d7a05e02feb8fce1e9d06c86faa7fd90\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\79299\.gradle\caches\transforms-3\d7a05e02feb8fce1e9d06c86faa7fd90\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\49b48222c9092f86b8f1b7ce566730b4\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\49b48222c9092f86b8f1b7ce566730b4\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\79299\.gradle\caches\transforms-3\c3ccb551a96d7464cbc7a567310b2d43\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\79299\.gradle\caches\transforms-3\c3ccb551a96d7464cbc7a567310b2d43\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\79299\.gradle\caches\transforms-3\d61520087bb53d23a4e3afad5636d15d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\79299\.gradle\caches\transforms-3\d61520087bb53d23a4e3afad5636d15d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\79299\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\79299\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\79299\.gradle\caches\transforms-3\ecb295b800ded09051f724a4ba193524\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\79299\.gradle\caches\transforms-3\ecb295b800ded09051f724a4ba193524\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\49b48222c9092f86b8f1b7ce566730b4\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\79299\.gradle\caches\transforms-3\49b48222c9092f86b8f1b7ce566730b4\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\79299\.gradle\caches\transforms-3\3d0b12a6a2875ebc8055ad98f7863014\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\79299\.gradle\caches\transforms-3\3d0b12a6a2875ebc8055ad98f7863014\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\79299\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
@@ -205,6 +206,8 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\79299\.gradle\caches\transforms-3\eb096476208bed94cd51cc904aa804e3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\79299\.gradle\caches\transforms-3\87b6f924c6c766718f595823a69da52a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\79299\.gradle\caches\transforms-3\87b6f924c6c766718f595823a69da52a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\79299\.gradle\caches\transforms-3\c3ccb551a96d7464cbc7a567310b2d43\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\79299\.gradle\caches\transforms-3\c3ccb551a96d7464cbc7a567310b2d43\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\79299\AndroidStudioProjects\Affirmations\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion

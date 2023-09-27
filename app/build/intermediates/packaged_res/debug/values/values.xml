@@ -24,6 +24,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <color name="white_300">#fffbff</color>
+    <dimen name="button_width">250dp</dimen>
     <string name="affirmation1">Я люблю и принимаю мир и всех людей.</string>
     <string name="affirmation10">Я отказываюсь быть беспомощной.</string>
     <string name="affirmation11">Я прощаю себя за то, что не была совершенна.</string>
@@ -40,6 +41,8 @@
     <string name="affirmation8">Несоответствие стандартам красоты не делает меня хуже. Это делает меня ещё необычнее и привлекательнее.</string>
     <string name="affirmation9">Мысли настоящего создают мое будущее.</string>
     <string name="app_name">Affirmations</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="vertical">Vertical</string>
     <style name="Theme.Affirmations" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/deep_blue_500</item>

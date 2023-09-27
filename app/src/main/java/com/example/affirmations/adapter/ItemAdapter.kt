@@ -8,9 +8,10 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.affirmations.R
+import com.example.affirmations.data.Datasource
 import com.example.affirmations.model.Affirmation
 
-class ItemAdapter(private val context: Context, private val dataset: List<Affirmation>) :
+class ItemAdapter(private val context: Context, private val layout: Int, private val dataset: List<Affirmation>) :
     RecyclerView.Adapter<ItemAdapter.ItemViewHolder>() {
 
     class ItemViewHolder(private val view: View): RecyclerView.ViewHolder(view) {
