@@ -36,4 +36,5 @@ class ItemAdapter(private val context: Context, private val dataset: List<Affirm
 
     fun getItem(position: Int) = dataset[position]
 
+    override fun getItemId(position: Int): Long = getItem(position).stringResourceId.toLong()
 }
